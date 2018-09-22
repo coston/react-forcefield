@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Table 1`] = `
+<div
+  style={
+    Object {
+      "minWidth": "100%",
+      "position": "relative",
+    }
+  }
+>
+  <iframe
+    allowFullScreen={true}
+    height="800px"
+    name="myiFrame"
+    scrolling="no"
+    src="http://oira.ua.edu/maps/ache/"
+    style={
+      Object {
+        "border": "1px #eee solid",
+      }
+    }
+    width="100%"
+  />
+  <div
+    onClick={[Function]}
+    style={
+      Object {
+        "bottom": "0",
+        "height": "100%",
+        "left": "0",
+        "position": "absolute",
+        "right": "0",
+        "top": "0",
+        "width": "auto",
+      }
+    }
+  />
+</div>
+`;
