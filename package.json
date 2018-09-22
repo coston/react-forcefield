@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Prevent unintentional interactions until click or touch",
   "main": "dist/Forcefield.js",
-    "files": [
-      "dist/Forcefield.js"
-    ],
+  "files": [
+    "dist/Forcefield.js"
+  ],
   "author": "Coston Perkins <coston.perkins@ua.edu> (https://coston.io)",
   "homepage": "https://github.com/coston/forcefield",
   "repository": {
