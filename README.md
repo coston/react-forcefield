@@ -6,7 +6,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/react-forcefield.svg)](https://www.npmjs.com/package/react-forcefield)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io)
 
-Prevent unintentional interactions until click or touch.
+Prevent unintentional interactions(scroll, zoom, etc) until click or touch.
 
 ## Documentation
 
@@ -15,9 +15,6 @@ Prevent unintentional interactions until click or touch.
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [License](#license)
-
-## Motivation
-Some components need a forcefield to prevent unintentional zoom, scroll, etc. This is that forcefield. 
 
 ## Demo & Examples
 
