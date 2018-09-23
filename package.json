@@ -1,6 +1,6 @@
 {
   "name": "react-forcefield",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Prevent unintentional interactions until click or touch",
   "main": "dist/Forcefield.js",
   "files": [
