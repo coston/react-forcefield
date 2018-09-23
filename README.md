@@ -40,7 +40,7 @@ npm install react-forcefield --save
 
 ## Usage
 
-To use, `import Forcefield from 'react-forcefield`, wrap the component in the <Forcefield> component, and voilà!
+To use, `import Forcefield from 'react-forcefield`, wrap some code in the  `<Forcefield>` component, and voilà!
 
 ```jsx
 import React from 'react'
