@@ -18,8 +18,6 @@ Prevent unintentional interactions(scroll, zoom, etc) until click or touch.
 
 ## Demo & Examples
 
-Live demo: [https://react-forcefield.netlify.com](https://react-forcefield.netlify.com)
-
 To build the examples locally, run:
 
 ```
