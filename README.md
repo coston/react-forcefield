@@ -40,14 +40,14 @@ npm install react-forcefield --save
 
 ## Usage
 
-To use, import Forcefield from 'react-forcefield', wrap the component in the <Forcefield> component, and voilà!
+To use, `import Forcefield from 'react-forcefield`, wrap the component in the <Forcefield> component, and voilà!
 
 ```jsx
 import React from 'react'
 import Forcefield from 'react-forcefield'
 
 const Example = () => (
-	<Forcefield>
+  <Forcefield>
     <iframe
       src="http://oira.ua.edu/maps/ache/"
       style={{ border: '1px #eee solid' }}
