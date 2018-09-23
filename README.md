@@ -17,6 +17,7 @@ Prevent unintentional interactions(scroll, zoom, etc) until click or touch.
 * [License](#license)
 
 ## Demo & Examples
+Live demo: [react-forcefield.coston.io](https://react-forcefield.coston.io)
 
 To build the examples locally, run:
 
@@ -56,7 +57,7 @@ const Example = () => (
       width="100%"
       allowFullScreen
     />
-</Forcefield>
+  </Forcefield>
 )
 ```
 
