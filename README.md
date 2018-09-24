@@ -49,13 +49,10 @@ import Forcefield from 'react-forcefield'
 const Example = () => (
   <Forcefield>
     <iframe
-      src="http://oira.ua.edu/maps/ache/"
+      src="https://basic-map.coston.io"
       style={{ border: '1px #eee solid' }}
-      name="myiFrame"
-      scrolling="no"
       height="800px"
       width="100%"
-      allowFullScreen
     />
   </Forcefield>
 )
